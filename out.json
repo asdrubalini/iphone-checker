@@ -1,0 +1,571 @@
+{
+    "head": {
+        "status": "200",
+        "data": {}
+    },
+    "body": {
+        "content": {
+            "pickupMessage": {
+                "stores": [
+                    {
+                        "storeEmail": "piazzaliberty@apple.com",
+                        "storeName": "Piazza Liberty",
+                        "reservationUrl": "http://www.apple.com/it/retail/piazzaliberty",
+                        "makeReservationUrl": "http://www.apple.com/it/retail/piazzaliberty",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R667.png?resize=828:*&output-format=jpg",
+                        "country": "IT",
+                        "city": "Milano",
+                        "storeNumber": "R667",
+                        "partsAvailability": {
+                            "MYWV3QL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Non disponibile per il ritiro",
+                                "partNumber": "MYWV3QL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "Ritiro in negozio",
+                                "messageTypes": {
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Ritiro:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Attualmente non disponibile presso Apple Piazza Liberty",
+                                        "storePickupQuote2_0": "Attualmente non disponibile presso <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink as-buttonlink-inline\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Piazza Liberty</button>",
+                                        "storePickupLinkText": "Guarda un altro store",
+                                        "storePickupProductTitle": "iPhone 16 Pro Max 256GB titanio nero"
+                                    }
+                                },
+                                "buyability": {
+                                    "isBuyable": false,
+                                    "reason": "NOT_AVAILABLE_FOR_PICKUP",
+                                    "commitCodeId": 200,
+                                    "inventory": 0
+                                }
+                            },
+                            "MYWW3QL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Non disponibile per il ritiro",
+                                "partNumber": "MYWW3QL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "Ritiro in negozio",
+                                "messageTypes": {
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Ritiro:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Attualmente non disponibile presso Apple Piazza Liberty",
+                                        "storePickupQuote2_0": "Attualmente non disponibile presso <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink as-buttonlink-inline\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Piazza Liberty</button>",
+                                        "storePickupLinkText": "Guarda un altro store",
+                                        "storePickupProductTitle": "iPhone 16 Pro Max 256GB titanio bianco"
+                                    }
+                                },
+                                "buyability": {
+                                    "isBuyable": false,
+                                    "reason": "NOT_AVAILABLE_FOR_PICKUP",
+                                    "commitCodeId": 200,
+                                    "inventory": 0
+                                }
+                            },
+                            "MYWY3QL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Non disponibile per il ritiro",
+                                "partNumber": "MYWY3QL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "Ritiro in negozio",
+                                "messageTypes": {
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Ritiro:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Attualmente non disponibile presso Apple Piazza Liberty",
+                                        "storePickupQuote2_0": "Attualmente non disponibile presso <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink as-buttonlink-inline\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Piazza Liberty</button>",
+                                        "storePickupLinkText": "Guarda un altro store",
+                                        "storePickupProductTitle": "iPhone 16 Pro Max 256GB titanio naturale"
+                                    }
+                                },
+                                "buyability": {
+                                    "isBuyable": false,
+                                    "reason": "NOT_AVAILABLE_FOR_PICKUP",
+                                    "commitCodeId": 200,
+                                    "inventory": 0
+                                }
+                            },
+                            "MYWX3QL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Non disponibile per il ritiro",
+                                "partNumber": "MYWX3QL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "Ritiro in negozio",
+                                "messageTypes": {
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Ritiro:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Attualmente non disponibile presso Apple Piazza Liberty",
+                                        "storePickupQuote2_0": "Attualmente non disponibile presso <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink as-buttonlink-inline\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Piazza Liberty</button>",
+                                        "storePickupLinkText": "Guarda un altro store",
+                                        "storePickupProductTitle": "iPhone 16 Pro Max 256GB titanio sabbia"
+                                    }
+                                },
+                                "buyability": {
+                                    "isBuyable": false,
+                                    "reason": "NOT_AVAILABLE_FOR_PICKUP",
+                                    "commitCodeId": 200,
+                                    "inventory": 0
+                                }
+                            }
+                        },
+                        "phoneNumber": "02 30 302 400",
+                        "pickupTypeAvailabilityText": "Questo store offre la seguente modalità di ritiro: Ritiro in negozio",
+                        "address": {
+                            "address": "Apple Piazza Liberty",
+                            "address3": null,
+                            "address2": "Piazza del Liberty, 1",
+                            "postalCode": "20121"
+                        },
+                        "hoursUrl": "http://www.apple.com/it/retail/piazzaliberty",
+                        "storeHours": {
+                            "storeHoursText": "Orari dello Store",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "10:00-20:00",
+                                    "storeDays": "Lun-Dom:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 45.465638,
+                        "storelongitude": 9.194489,
+                        "storedistance": 0.0,
+                        "storeDistanceVoText": "null da 20121",
+                        "retailStore": {
+                            "storeNumber": "R667",
+                            "storeUniqueId": "R667",
+                            "name": "Piazza Liberty",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "02 30 302 400",
+                            "email": "piazzaliberty@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 45.465638,
+                            "longitude": 9.194489,
+                            "address": {
+                                "city": "Milano",
+                                "companyName": "Apple Piazza Liberty",
+                                "countryCode": "IT",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "it-it",
+                                "mailStop": null,
+                                "postalCode": "20121",
+                                "primaryAddress": false,
+                                "province": null,
+                                "state": null,
+                                "street": "Piazza del Liberty, 1",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "02 30 302 400",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "e803b453-40a8-4a3d-b286-7446046afa4b",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "addressCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "correctionResult": null,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "02 30 302 400",
+                                "twoLineAddress": "Piazza del Liberty, 1,\nMilano, 20121",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": null,
+                            "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R667.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": "http://www.apple.com/it/retail/piazzaliberty",
+                            "hoursAndInfoUrl": "http://www.apple.com/it/retail/piazzaliberty",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Lun-Dom",
+                                    "voStoreDays": "Lunedi-Domenica",
+                                    "storeTimings": "10:00-20:00"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R667.png?resize=828:*&output-format=jpg",
+                            "distance": 0.0,
+                            "distanceUnit": "KM",
+                            "distanceWithUnit": null,
+                            "timezone": "Europe/Rome",
+                            "storeIsActive": true,
+                            "lastUpdated": 0.0,
+                            "lastFetched": 1729114128510,
+                            "dateStamp": "16-Oct-2024",
+                            "distanceSeparator": ",",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 0,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "type": "INSTORE",
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeCoordinate": {
+                                        "lat": 45.465638,
+                                        "lon": 9.194489
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "services": [
+                                        "APU"
+                                    ]
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 1,
+                        "storeListNumber": 1,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">Cosa fare al momento del ritiro&nbsp;</h4><br />Quando il tuo ordine sarà pronto ti invieremo un’email con le istruzioni dettagliate per il ritiro. Per il setup di un nuovo dispositivo, puoi prenotare una sessione gratuita online con uno dei nostri Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/it/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Scopri di più su spedizione <br />e ritiro <span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(si apre in una nuova finestra)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "Ritiro in negozio",
+                                    "pickupOptionDescription": "Ritiro dell’ordine. Può esserci la possibilità di acquistare accessori e ricevere assistenza per il setup.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 1
+                    }
+                ],
+                "overlayInitiatedFromWarmStart": true,
+                "viewMoreHoursLinkText": "Vedi più orari",
+                "storesCount": "1",
+                "little": false,
+                "pickupLocationLabel": "Store per il ritiro:",
+                "pickupLocation": "Apple Piazza Liberty",
+                "notAvailableNearby": "Non disponibile oggi nei [X] Store più vicini.",
+                "notAvailableNearOneStore": "Non disponibile oggi nello Store più vicino.",
+                "warmDudeWithAPU": true,
+                "viewMoreHoursVoText": "(Si apre in una nuova finestra)",
+                "availability": {
+                    "isComingSoon": false
+                },
+                "viewDetailsText": "Visualizza dettagli",
+                "availabilityStores": "R278,R365,R418,R427,R441,R442,R449,R547,R625,R667",
+                "legendLabelText": "Negozi",
+                "filteredTopStore": false
+            },
+            "deliveryMessage": {
+                "MYWY3QL/A": {
+                    "regular": {
+                        "orderByDeliveryBy": "Ordina oggi.",
+                        "orderByDeliveryBySuffix": "Consegna: <button class=\"rf-dude-quote-overlay-trigger as-delivery-overlay-trigger as-purchaseinfo-dudetrigger as-buttonlink as-buttonlink-inline\" data-autom=\"deliveryDateChecker\" data-ase-overlay=\"dude-overlay\" data-ase-click=\"show\">20121</button>",
+                        "deliveryOptionMessages": [
+                            {
+                                "displayName": "31 Ott - 8 Nov — Gratuita",
+                                "inHomeSetup": "false",
+                                "encodedUpperDateString": "20241108"
+                            }
+                        ],
+                        "deliveryOptions": [
+                            {
+                                "displayName": "Spedizione espressa",
+                                "date": "31 Ott - 8 Nov",
+                                "shippingCost": "Gratuita",
+                                "additionalContent": null
+                            }
+                        ],
+                        "deliveryOptionsLink": {
+                            "text": "Opzioni di consegna su 20121",
+                            "dataVar": {},
+                            "newTab": false
+                        },
+                        "address": {
+                            "postalCode": "20121",
+                            "city": "Milano"
+                        },
+                        "showDeliveryOptionsLink": false,
+                        "messageType": "Delivery",
+                        "basePartNumber": "MYWY3",
+                        "commitCodeId": "200",
+                        "dudeAttributes": {
+                            "source": {
+                                "cutoffFormat": "actualTime",
+                                "leadByPickup": "true",
+                                "templateId": "DUDE_APU_N",
+                                "deliveryOrderSortBy": "speed"
+                            },
+                            "deliveryHeader": null,
+                            "templateID": "DUDE_APU_N",
+                            "resolvedLabel": "Ordina oggi.",
+                            "shipMethodsDisplayOrder": [
+                                "E3"
+                            ],
+                            "fastestShipMethodPriceLabel": null,
+                            "leadByPickup": "true"
+                        },
+                        "subHeader": "Per iPhone 16 Pro Max 256GB titanio naturale",
+                        "stickyMessageIDL": "",
+                        "stickyMessageSTH": "<span class=\"bold\">31 Ott - 8 Nov</span> (Gratuita)",
+                        "stickyMessageDeliveryOptions": "Consegna: <button class=\"rf-dude-quote-overlay-trigger as-delivery-overlay-trigger as-purchaseinfo-dudetrigger as-buttonlink as-buttonlink-inline\" data-autom=\"deliveryDateChecker\" data-ase-overlay=\"dude-overlay\" data-ase-click=\"show\">20121<span class=\"visuallyhidden\">(Mostra date di consegna)</span></button>",
+                        "buyability": {
+                            "reason": "OK",
+                            "commitCode": "200",
+                            "isBuyable": true
+                        },
+                        "defaultLocationEnabled": false,
+                        "idl": false,
+                        "inHomeSetup": false,
+                        "isElectronic": false,
+                        "isBuyable": true
+                    }
+                },
+                "MYWV3QL/A": {
+                    "regular": {
+                        "orderByDeliveryBy": "Ordina oggi.",
+                        "orderByDeliveryBySuffix": "Consegna: <button class=\"rf-dude-quote-overlay-trigger as-delivery-overlay-trigger as-purchaseinfo-dudetrigger as-buttonlink as-buttonlink-inline\" data-autom=\"deliveryDateChecker\" data-ase-overlay=\"dude-overlay\" data-ase-click=\"show\">20121</button>",
+                        "deliveryOptionMessages": [
+                            {
+                                "displayName": "31 Ott - 8 Nov — Gratuita",
+                                "inHomeSetup": "false",
+                                "encodedUpperDateString": "20241108"
+                            }
+                        ],
+                        "deliveryOptions": [
+                            {
+                                "displayName": "Spedizione espressa",
+                                "date": "31 Ott - 8 Nov",
+                                "shippingCost": "Gratuita",
+                                "additionalContent": null
+                            }
+                        ],
+                        "deliveryOptionsLink": {
+                            "text": "Opzioni di consegna su 20121",
+                            "dataVar": {},
+                            "newTab": false
+                        },
+                        "address": {
+                            "postalCode": "20121",
+                            "city": "Milano"
+                        },
+                        "showDeliveryOptionsLink": false,
+                        "messageType": "Delivery",
+                        "basePartNumber": "MYWV3",
+                        "commitCodeId": "200",
+                        "dudeAttributes": {
+                            "source": {
+                                "cutoffFormat": "actualTime",
+                                "leadByPickup": "true",
+                                "templateId": "DUDE_APU_N",
+                                "deliveryOrderSortBy": "speed"
+                            },
+                            "deliveryHeader": null,
+                            "templateID": "DUDE_APU_N",
+                            "resolvedLabel": "Ordina oggi.",
+                            "shipMethodsDisplayOrder": [
+                                "E3"
+                            ],
+                            "fastestShipMethodPriceLabel": null,
+                            "leadByPickup": "true"
+                        },
+                        "subHeader": "Per iPhone 16 Pro Max 256GB titanio nero",
+                        "stickyMessageIDL": "",
+                        "stickyMessageSTH": "<span class=\"bold\">31 Ott - 8 Nov</span> (Gratuita)",
+                        "stickyMessageDeliveryOptions": "Consegna: <button class=\"rf-dude-quote-overlay-trigger as-delivery-overlay-trigger as-purchaseinfo-dudetrigger as-buttonlink as-buttonlink-inline\" data-autom=\"deliveryDateChecker\" data-ase-overlay=\"dude-overlay\" data-ase-click=\"show\">20121<span class=\"visuallyhidden\">(Mostra date di consegna)</span></button>",
+                        "buyability": {
+                            "reason": "OK",
+                            "commitCode": "200",
+                            "isBuyable": true
+                        },
+                        "defaultLocationEnabled": false,
+                        "idl": false,
+                        "inHomeSetup": false,
+                        "isElectronic": false,
+                        "isBuyable": true
+                    }
+                },
+                "geoEnabled": true,
+                "MYWX3QL/A": {
+                    "regular": {
+                        "orderByDeliveryBy": "Ordina oggi.",
+                        "orderByDeliveryBySuffix": "Consegna: <button class=\"rf-dude-quote-overlay-trigger as-delivery-overlay-trigger as-purchaseinfo-dudetrigger as-buttonlink as-buttonlink-inline\" data-autom=\"deliveryDateChecker\" data-ase-overlay=\"dude-overlay\" data-ase-click=\"show\">20121</button>",
+                        "deliveryOptionMessages": [
+                            {
+                                "displayName": "31 Ott - 8 Nov — Gratuita",
+                                "inHomeSetup": "false",
+                                "encodedUpperDateString": "20241108"
+                            }
+                        ],
+                        "deliveryOptions": [
+                            {
+                                "displayName": "Spedizione espressa",
+                                "date": "31 Ott - 8 Nov",
+                                "shippingCost": "Gratuita",
+                                "additionalContent": null
+                            }
+                        ],
+                        "deliveryOptionsLink": {
+                            "text": "Opzioni di consegna su 20121",
+                            "dataVar": {},
+                            "newTab": false
+                        },
+                        "address": {
+                            "postalCode": "20121",
+                            "city": "Milano"
+                        },
+                        "showDeliveryOptionsLink": false,
+                        "messageType": "Delivery",
+                        "basePartNumber": "MYWX3",
+                        "commitCodeId": "200",
+                        "dudeAttributes": {
+                            "source": {
+                                "cutoffFormat": "actualTime",
+                                "leadByPickup": "true",
+                                "templateId": "DUDE_APU_N",
+                                "deliveryOrderSortBy": "speed"
+                            },
+                            "deliveryHeader": null,
+                            "templateID": "DUDE_APU_N",
+                            "resolvedLabel": "Ordina oggi.",
+                            "shipMethodsDisplayOrder": [
+                                "E3"
+                            ],
+                            "fastestShipMethodPriceLabel": null,
+                            "leadByPickup": "true"
+                        },
+                        "subHeader": "Per iPhone 16 Pro Max 256GB titanio sabbia",
+                        "stickyMessageIDL": "",
+                        "stickyMessageSTH": "<span class=\"bold\">31 Ott - 8 Nov</span> (Gratuita)",
+                        "stickyMessageDeliveryOptions": "Consegna: <button class=\"rf-dude-quote-overlay-trigger as-delivery-overlay-trigger as-purchaseinfo-dudetrigger as-buttonlink as-buttonlink-inline\" data-autom=\"deliveryDateChecker\" data-ase-overlay=\"dude-overlay\" data-ase-click=\"show\">20121<span class=\"visuallyhidden\">(Mostra date di consegna)</span></button>",
+                        "buyability": {
+                            "reason": "OK",
+                            "commitCode": "200",
+                            "isBuyable": true
+                        },
+                        "defaultLocationEnabled": false,
+                        "idl": false,
+                        "inHomeSetup": false,
+                        "isElectronic": false,
+                        "isBuyable": true
+                    }
+                },
+                "WarmAPUWithDude": true,
+                "geoLocated": false,
+                "MYWW3QL/A": {
+                    "regular": {
+                        "orderByDeliveryBy": "Ordina oggi.",
+                        "orderByDeliveryBySuffix": "Consegna: <button class=\"rf-dude-quote-overlay-trigger as-delivery-overlay-trigger as-purchaseinfo-dudetrigger as-buttonlink as-buttonlink-inline\" data-autom=\"deliveryDateChecker\" data-ase-overlay=\"dude-overlay\" data-ase-click=\"show\">20121</button>",
+                        "deliveryOptionMessages": [
+                            {
+                                "displayName": "31 Ott - 8 Nov — Gratuita",
+                                "inHomeSetup": "false",
+                                "encodedUpperDateString": "20241108"
+                            }
+                        ],
+                        "deliveryOptions": [
+                            {
+                                "displayName": "Spedizione espressa",
+                                "date": "31 Ott - 8 Nov",
+                                "shippingCost": "Gratuita",
+                                "additionalContent": null
+                            }
+                        ],
+                        "deliveryOptionsLink": {
+                            "text": "Opzioni di consegna su 20121",
+                            "dataVar": {},
+                            "newTab": false
+                        },
+                        "address": {
+                            "postalCode": "20121",
+                            "city": "Milano"
+                        },
+                        "showDeliveryOptionsLink": false,
+                        "messageType": "Delivery",
+                        "basePartNumber": "MYWW3",
+                        "commitCodeId": "200",
+                        "dudeAttributes": {
+                            "source": {
+                                "cutoffFormat": "actualTime",
+                                "leadByPickup": "true",
+                                "templateId": "DUDE_APU_N",
+                                "deliveryOrderSortBy": "speed"
+                            },
+                            "deliveryHeader": null,
+                            "templateID": "DUDE_APU_N",
+                            "resolvedLabel": "Ordina oggi.",
+                            "shipMethodsDisplayOrder": [
+                                "E3"
+                            ],
+                            "fastestShipMethodPriceLabel": null,
+                            "leadByPickup": "true"
+                        },
+                        "subHeader": "Per iPhone 16 Pro Max 256GB titanio bianco",
+                        "stickyMessageIDL": "",
+                        "stickyMessageSTH": "<span class=\"bold\">31 Ott - 8 Nov</span> (Gratuita)",
+                        "stickyMessageDeliveryOptions": "Consegna: <button class=\"rf-dude-quote-overlay-trigger as-delivery-overlay-trigger as-purchaseinfo-dudetrigger as-buttonlink as-buttonlink-inline\" data-autom=\"deliveryDateChecker\" data-ase-overlay=\"dude-overlay\" data-ase-click=\"show\">20121<span class=\"visuallyhidden\">(Mostra date di consegna)</span></button>",
+                        "buyability": {
+                            "reason": "OK",
+                            "commitCode": "200",
+                            "isBuyable": true
+                        },
+                        "defaultLocationEnabled": false,
+                        "idl": false,
+                        "inHomeSetup": false,
+                        "isElectronic": false,
+                        "isBuyable": true
+                    }
+                },
+                "availableOptionsText": "Available Options",
+                "dudeCookieSet": true,
+                "processing": "",
+                "contentloaded": "",
+                "dudeLocated": true,
+                "locationCookieValueFoundForThisCountry": false,
+                "accessibilityDeliveryOptions": "opzioni di consegna"
+            }
+        }
+    }
+}

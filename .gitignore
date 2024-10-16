@@ -1,0 +1,6 @@
+/target
+result*
+.direnv/
+/result
+.vscode
+GoogleNews-vectors-negative300.bin

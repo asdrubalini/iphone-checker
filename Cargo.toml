@@ -1,0 +1,19 @@
+[package]
+name = "iphone-checker"
+version = "0.0.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+anyhow = "1.0.89"
+chrono = "0.4.38"
+reqwest = { version = "0.12.8", features = [
+    "gzip",
+    "rustls-tls",
+    "blocking",
+    "json",
+], default-features = false }
+rodio = "0.19.0"
+serde = { version = "1.0.210", features = ["derive"] }
+serde_json = "1.0.128"
+urlencoding = "2.1.3"
