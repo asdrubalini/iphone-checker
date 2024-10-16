@@ -76,33 +76,31 @@ fn play_warning() {
 }
 
 fn main() -> anyhow::Result<()> {
-    play_warning();
+    loop {
+        // dont crash
+        let a = match apple_check_availability() {
+            Ok(a) => a,
+            Err(err) => {
+                println!("Got an error: {err:?}");
 
-    // loop {
-    //     // dont crash
-    //     let a = match apple_check_availability() {
-    //         Ok(a) => a,
-    //         Err(err) => {
-    //             println!("Got an error: {err:?}");
+                sleep(Duration::from_secs(15));
+                continue;
+            }
+        };
 
-    //             sleep(Duration::from_secs(15));
-    //             continue;
-    //         }
-    //     };
+        for (model, availability) in a {
+            if availability {
+                println!("Model {model} is available!!");
 
-    //     for (model, availability) in a {
-    //         if availability {
-    //             println!("Model {model} is available!!");
+                for _ in 0..25 {
+                    play_warning();
+                    sleep(Duration::from_secs(3));
+                }
+            }
+        }
 
-    //             for _ in 0..25 {
-    //                 play_warning();
-    //                 sleep(Duration::from_secs(3));
-    //             }
-    //         }
-    //     }
-
-    //     sleep(Duration::from_secs(15));
-    // }
+        sleep(Duration::from_secs(15));
+    }
 
     Ok(())
 }
